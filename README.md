@@ -1,4 +1,4 @@
-# Instagram Clone
+# Tiktok Clone
 
 A clone Tiktok App- Works on Android, iOS
 
