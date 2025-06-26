@@ -27,5 +27,8 @@ A clone Tiktok App- Works on Android, iOS
 
 # Tech Used
 
-- Server: Firebase Auth, Firebase Storage, Firebase Firestore
-- Client: Flutter, Provider
+**Server**: Firebase Auth, Firebase Storage, Firebase Firestore
+
+**Client**: Flutter, GetX
+
+**Architecture**: MVC
